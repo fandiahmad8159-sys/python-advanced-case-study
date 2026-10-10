@@ -28,5 +28,4 @@ Akun untuk mencoba: username `fandi2026`, password `rahasia123`.
 3. Format benar tetapi password salah, hasilnya ditolak.
 4. Semua benar, hasilnya login berhasil.
 
-## Hasil program
-![Hasil program](output.png)
+
