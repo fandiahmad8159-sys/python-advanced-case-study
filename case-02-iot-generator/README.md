@@ -22,5 +22,4 @@ Buka terminal di folder ini, lalu ketik:
 python main.py
 ```
 
-## Hasil program
-![Hasil program](output.png)
+
