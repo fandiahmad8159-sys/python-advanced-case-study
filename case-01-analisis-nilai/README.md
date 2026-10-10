@@ -19,7 +19,3 @@ Buka terminal di folder ini, lalu ketik:
 python main.py
 ```
 
-## Hasil program
-![Hasil program](output.png)
-
-Dari data contoh, Cantika (NIM 230103) jadi yang terbaik dengan nilai akhir 89,30.
