@@ -1,7 +1,7 @@
 # python-advanced-case-study
 
-**Nama:** (isi namamu)  
-**NIM:** (isi NIM-mu)  
+**Nama:** FANDI AHMAD  
+**NIM:** 2595114028 
 **Mata kuliah:** Pemrograman Berorientasi Objek — Pertemuan 06 (Python Advanced Topics)
 
 ## Ringkasan 3 Studi Kasus
